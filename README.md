@@ -2,7 +2,7 @@
 
 ## Overview Demo
 
-![Overview demo](assets/overview-demo.gif)
+<video src="assets/overview-demo.mp4" controls autoplay loop muted playsinline></video>
 
 ## Method Review
 

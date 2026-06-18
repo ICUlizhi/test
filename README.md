@@ -2,9 +2,7 @@
 
 ## Overview Demo
 
-[![Overview demo](assets/overview-demo-preview.jpg)](assets/overview-demo.mp4)
-
-[Open MP4](assets/overview-demo.mp4)
+![Overview demo](assets/overview-demo.gif)
 
 ## Method Review
 
